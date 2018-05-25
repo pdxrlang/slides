@@ -30,8 +30,8 @@ The slides are availabe at [http://drewlanenga.github.io/rmeetup](http://drewlan
 
 _May 25, 2018_
 
-__Aaron Makubuya__: Data Scientist, XPO Logistics - _Analytical Reporting with Slackr_ ([presentation](SlackR.html))
-__Hoyt Emerson__: Senior Data Analyst, Home Depot - _Advanced Pipe Programming in the Tidyverse_ ([R script](tibble_columns_demo.R)) [tibbleColumns package](https://github.com/nhemerson/tibbleColumns)
+* __Aaron Makubuya__: Data Scientist, XPO Logistics - _Analytical Reporting with Slackr_ ([presentation](SlackR.html))
+* __Hoyt Emerson__: Senior Data Analyst, Home Depot - _Advanced Pipe Programming in the Tidyverse_ ([R script](tibble_columns_demo.R)) [tibbleColumns package](https://github.com/nhemerson/tibbleColumns)
 
 [meetup page](https://www.meetup.com/portland-r-user-group/events/250257373/)
 
